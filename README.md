@@ -32,4 +32,12 @@ Las variables existentes en el dataset son las siguientes:
 
 ## Resumen de resultados
 
+Tratando de resolver la pregunta de un principio, con la información y los resultados ya obtenidos podemos llegar a las siguientes conclusiones. 
+
+1. La consola que tiene mayores juegos con las caracteristicas que mi primo busca es el PS4, seguido del PSV y el como tercera opción XOne.
+2. El dataset apesar de tener información con las caracteristicas que buscabamos, es importante tomar en cuenta que no era muy actual. 
+- La información más actual era del 2020.
+- La mayoría de los datos no estaban dentro de los años que buscabamos. 
 ## Jupyter notebook.
+
+https://github.com/androbriel/Proyecto-de-an-lisis-EDA---Alejandro-Camacho/blob/main/src/Trabajo%20Proyecto%20EDA.ipynb
