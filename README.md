@@ -39,5 +39,5 @@ Tratando de resolver la pregunta de un principio, con la información y los resu
 - La información más actual era del 2020.
 - La mayoría de los datos no estaban dentro de los años que buscabamos. 
 ## Jupyter notebook.
+link del Notebook: [Codigo y desarrollo del EDA](https://github.com/androbriel/Proyecto-de-an-lisis-EDA---Alejandro-Camacho/blob/main/src/Trabajo%20Proyecto%20EDA.ipynb)
 
-https://github.com/androbriel/Proyecto-de-an-lisis-EDA---Alejandro-Camacho/blob/main/src/Trabajo%20Proyecto%20EDA.ipynb
